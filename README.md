@@ -48,6 +48,7 @@ credit-card-fraud-detection/
 ├── app.py                     ← Flask backend application
 ├── creditcard.csv             ← Dataset used for training
 └── requirements.txt           ← List of required Python libraries
+
 🚀 How to Run — Step by Step
 STEP 1: Install Required Libraries
 
