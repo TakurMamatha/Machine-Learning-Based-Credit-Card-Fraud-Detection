@@ -29,7 +29,6 @@ The transaction data and prediction result are saved in MongoDB
 
 ## 🗂️ Project Structure
 
-```text
 credit-card-fraud-detection/
 │
 ├── model/
