@@ -28,7 +28,7 @@ The transaction data and prediction result are saved in MongoDB
 ---
 
 ## 🗂️ Project Structure
-
+```
 credit-card-fraud-detection/
 │
 ├── model/
@@ -44,7 +44,7 @@ credit-card-fraud-detection/
 ├── app.py
 ├── creditcard.csv
 └── requirements.txt
-
+```
 ---
 
 ## 🚀 How to Run — Step by Step
